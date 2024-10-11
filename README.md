@@ -51,7 +51,7 @@ This project is an advanced AI Voice Assistant that integrates Text-to-Speech (T
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/yourusername/AI-Voice-assistant.git
+git clone https://github.com/AIXerum/AI-Voice-assistant.git
 cd AI-Voice-assistant
 ```
 
@@ -109,4 +109,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact me at `aymenMir10001@gmail.com`.
+If you have any questions or suggestions, feel free to contact me at `richard.z95727@gmail.com`.
