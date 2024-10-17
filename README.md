@@ -51,8 +51,8 @@ This project is an advanced AI Voice Assistant that integrates Text-to-Speech (T
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/AIXerum/AI-Voice-assistant.git
-cd AI-Voice-assistant
+git clone https://github.com/AIXerum/AI-Voice-Assistant.git
+cd AI-Voice-Assistant
 ```
 
 2. **Create and activate a virtual environment:**
@@ -106,7 +106,3 @@ The assistant is programmed to stop the conversation when the user says "goodbye
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at `richard.z95727@gmail.com`.
